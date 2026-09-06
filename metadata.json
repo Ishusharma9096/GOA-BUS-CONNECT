@@ -1,0 +1,6 @@
+{
+  "name": "GoaBusConnect",
+  "description": "One Platform. All Buses. Better Journeys. AI-powered public transportation assistant for Goa, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
